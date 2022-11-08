@@ -18,6 +18,8 @@ buildExpired: false
 
 paginate: 10    # 每页显示的文章数
 
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
 minify:
     disableXML: true
     # minifyOutput: true
@@ -49,8 +51,7 @@ languages:
             url: post/tech
           - name: 📕阅读
             url: post/read
-          - name: 🏖生活
-            url: post/life
+
       menu:
         main:
           - identifier: search
