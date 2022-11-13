@@ -3,7 +3,7 @@ title: 清楚一些逻辑谬误
 author:
   - 霄鹏
 date: '2022-11-05'
-slug: ''
+slug: 'logical fallacies'
 categories:
   - category 1
   - category 2
