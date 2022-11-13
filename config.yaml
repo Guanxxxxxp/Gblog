@@ -132,7 +132,6 @@ params:
           url: "index.xml"
     label:
         text: "Guanxxxxxp"
-        #icon: "img/Q.png"
         icon: "img/T.png"
         iconHeight: 35
         
