@@ -1,5 +1,5 @@
 ---
-title: logical-fallacies2
+title: 清楚一些逻辑谬误
 author:
   - 霄鹏
 date: '2022-11-17'
