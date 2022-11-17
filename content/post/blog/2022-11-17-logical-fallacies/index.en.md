@@ -3,7 +3,7 @@ title: 理清一些逻辑错误test
 author:
   - 霄鹏
 date: '2022-11-17'
-slug: logical-fallacies
+slug: "logical-fallacies"
 categories:
   - category 1
 tags:
