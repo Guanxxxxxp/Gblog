@@ -3,7 +3,7 @@ title: "你以为你以为的就是你以为的吗Ⅱ：大论战中常见的思
 author:
   - 管霄鹏
 date: '2022-11-13'
-slug: the-duck-that-won-the-lottery-and-99-other-bad-arguments
+slug: logical-fallacies
 categories:
   - category 1
   - category 2
