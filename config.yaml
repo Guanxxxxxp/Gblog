@@ -25,7 +25,7 @@ minify:
     # minifyOutput: true
 
 permalinks: #浏览器链接显示方式
-  post: "/:title/"
+  posts: slug
   # post: "/:year/:month/:day/:title/"
 
 defaultContentLanguage: en # 最顶部首先展示的语言页面
