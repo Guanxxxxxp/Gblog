@@ -1,5 +1,5 @@
 ---
-title: 理清一些逻辑错误test
+title: 理清一些逻辑错误
 author:
   - 霄鹏
 date: '2022-11-17'
