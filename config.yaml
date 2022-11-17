@@ -1,6 +1,6 @@
 theme: "hugo-PaperMod"
 baseURL: https://xpblog.netlify.app/
-languageCode: en-us
+languageCode: zh-cn
 title: Guanxxxxxp
 
 enableInlineShortcodes: true #允许内联短码
