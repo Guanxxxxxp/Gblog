@@ -26,6 +26,7 @@ disableShare: yes
 searchHidden: no
 showbreadcrumbs: yes
 mermaid: yes
+math: yes
 cover:
   image: ''
   caption: ''
@@ -229,6 +230,7 @@ $$
 $$
 
 单尾/双尾假设检验
+
 
 # 十一章 民意检测与误差幅度
 
