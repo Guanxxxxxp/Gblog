@@ -31,6 +31,190 @@ cover:
   alt: ''
   relative: no
 ---
+先搞个丐版
 
+- **求导原函数**
+    
+    $C$
+    
+    $x^\mu$
+    
+    $x^2$
+    
+    $\sqrt{x}$
+    
+    $\frac1x$
+    
+    $e^x$
+    
+    $a^x$
+    
+    $lnx$
+    
+    $ln(x+\sqrt{{x^2}\pm{a^2}})$
+    
+    $sinx$
+    
+    $tanx$
+    
+    $secx$
+    
+    $arcsinx$
+    
+    $arctanx$
+    
+    $cosx$
+    
+    $cotx$
+    
+    $cscx$
+    
+    $arccosx$
+    
+    $arccotx$
+    
+- **求导**
+    
+    $0$
+    
+    ${\mu}x^{\mu-1}$
+    
+    $2x$
+    
+    $\frac{1}{2\sqrt{x}}$
+    
+    $-\frac{1}{x^2}$
+    
+    $e^x$
+    
+    $a^x{lna}$
+    
+    $\frac1x$
+    
+    $\frac{1}{\sqrt{x^2{\pm}a^2}}$
+    
+    $cosx$
+    
+    $sec^2x$
+    
+    $secxtanx$
+    
+    $\frac1{\sqrt{1-x^2}}$
+    
+    $\frac1{1+x^2}$
+    
+    $-sinx$
+    
+    $-csc^2x$
+    
+    $-cscxcotx$
+    
+    $-\frac1{\sqrt{1-x^2}}$
+    
+    $-\frac1{1+x^2}$
+    
+- **求积分原函数**
+    
+    $\int{x^\mu}dx$
+    
+    $\int\frac1{\sqrt{x}}dx$
+    
+    $\int{e^x}dx$
+    
+    $\int{a^x}dx$
+    
+    $\int{\frac1x}dx$
+    
+    $\int{sinx}dx$
+    
+    $\int{cosx}dx$
+    
+    $\int{tanx}dx$
+    
+    $\int{cotx}dx$
+    
+    $\int{sec^2x}dx$
+    
+    $\int{csc^2x}dx$
+    
+    $\int{\frac{1}{\sqrt{1-x^2}}}dx$
+    
+    $\int{\frac1{1+x^2}}dx$
+    
+    $\int{\frac{-1}{\sqrt{1-x^2}}}dx$
+    
+    $\int{secx}dx$
+    
+    $\int{cscx}dx$
+    
+    $\int{\frac1{\sqrt{a^2-x^2}}}dx$
+    
+    $\int{\frac1{a^2+x^2}}dx$
+    
+    $\int{\frac1{\sqrt{{x^2}\pm{a^2}}}}dx$
+    
+    $\int{\frac1{1+e^x}}dx$
+    
+    $\int{\frac1{a^2-x^2}}dx$
+    
+    $\int{\frac1{x^2-a^2}}dx$
+    
+    $\int{\sqrt{x^2+a^2}}dx$
+    
+    $\int{\sqrt{x^2-a^2}}dx$
+    
+    $\int{\sqrt{a^2-x^2}}dx$
+    
+- **求积分**
+    
+    $\frac1{\mu+1}x^{\mu+1}+C$
+    
+    $2\sqrt{x}+C$
+    
+    $e^x+C$
+    
+    $\frac{a^x}{lna}+C$
+    
+    $ln|x|+C$
+    
+    $-cosx+C$
+    
+    $sinx+C$
+    
+    $-ln|cosx|+C$
+    
+    $ln|sinx|+C$
+    
+    $tanx+C$
+    
+    $-cotx+C$
+    
+    $arcsinx+C$
+    
+    $arctanx+C$
+    
+    $arccosx+C$
+    
+    $ln|secx+tanx|+C$
+    
+    $ln|cscx-cotx|+C$
+    
+    $arcsin\frac{x}{a}+C$
+    
+    $\frac1{a}arctan\frac{x}{a}+C$
+    
+    $ln|x+\sqrt{{x^2}\pm{a^2}}|+C$
+    
+    $x-ln(1+e^x)+C$
+    
+    $\frac1{2a}ln|\frac{a+x}{a-x}|+C$
+    
+    $\frac1{2a}ln|\frac{x-a}{x+a}|+C$
+    
+    $\frac{x}2\sqrt{x^2+a^2}+\frac{a^2}2ln(x+\sqrt{x^2+a^2})+C$
+    
+    $\frac{x}2\sqrt{x^2-a^2}-\frac{a^2}2ln(x+\sqrt{x^2-a^2})+C$
+    
+    $\frac{x}2\sqrt{a^2-x^2}+\frac{a^2}2arcsin\frac{x}a+C$
 
 <!-- more --> 
