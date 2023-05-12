@@ -165,6 +165,14 @@ cover:
     
     $\int{\sqrt{a^2-x^2}}dx$
     
+    $\int{arctan{\sqrt{e^{2x}-1}}}dx$
+
+    $\int{\frac{1}{xlnxln(lnx)}}dx$
+
+    $\int{sec^3x}dx$
+
+    $\int{csc^3x}dx$
+    
 - **求积分**
     
     $\frac1{\mu+1}x^{\mu+1}+C$
@@ -216,5 +224,15 @@ cover:
     $\frac{x}2\sqrt{x^2-a^2}-\frac{a^2}2ln(x+\sqrt{x^2-a^2})+C$
     
     $\frac{x}2\sqrt{a^2-x^2}+\frac{a^2}2arcsin\frac{x}a+C$
+    
+    $\frac{1}{\sqrt{e^{2x}-1}}+C$
+
+    $ln(ln(lnx))+C$
+
+    $\frac{1}{2}secxtanx+\frac{1}{2}ln(secx+tanx)+C$
+
+    $-\frac{1}{2}cscxcotx+\frac{1}{2}ln(cscx-cotx)+C$
+    
+Update On May 12th
 
 <!-- more --> 
