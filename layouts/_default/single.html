@@ -20,6 +20,12 @@
       {{- partial "post_canonical.html" . -}}
     </div>
     {{- end }}
+    <!-- busuanzi -->
+    {{ if .Site.Params.busuanzi.enable -}}
+    <div  class="meta-item">&nbsp·&nbsp
+      <span id="busuanzi_container_page_pv">本文阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+    </div>
+    {{- end }}
   </header>
   {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}

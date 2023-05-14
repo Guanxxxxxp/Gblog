@@ -155,6 +155,10 @@ params:
     
     twikoo:
       version: 1.6.7
+      
+    busuanzi:
+        enable: true
+
 
 taxonomies:
     category: categories
