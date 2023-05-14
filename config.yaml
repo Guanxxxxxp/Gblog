@@ -111,7 +111,6 @@ params:
     page_view_conter: true # 统计字数
     ShowStatInSectionTermList: false
     ShowStatInArchive: false
-    
     ShowLastMod: true #显示文章更新时间
 
     ShowToc: true # 显示目录
