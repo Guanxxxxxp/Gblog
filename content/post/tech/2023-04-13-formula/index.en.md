@@ -233,6 +233,42 @@ cover:
 
     $-\frac{1}{2}cscxcotx+\frac{1}{2}ln(cscx-cotx)+C$
     
-Update On May 12th
+- **原函数**
+    
+    $sinx$
+    
+    $cosx$
+    
+    $tanx$
+    
+    $arcsinx$
+    
+    $arctanx$
+    
+    $ln(1+x)$
+    
+    $e^x$
+    
+    $(1+x)^\alpha$
+    
+- **泰勒展开**
+    
+    $x-\frac{1}{3!}x^3+\frac{1}{5!}x^5+o(x^5)$
+    
+    $1-\frac{1}{2!}x^2+\frac{1}{4!}x^4+o(x^4)$
+    
+    $x+\frac{1}{3}x^3+o(x3)$
+    
+    $x+\frac{1}{6}x^3+o(x^3)$
+    
+    $x-\frac{1}{3}x^3+o(x^3)$
+    
+    $x-\frac{1}{2}x^2+o(x^2)$
+    
+    $1+x+\frac{1}{2}x^2+o(x^2)$
+    
+    $1+\alpha x+\frac{\alpha(\alpha-1)}{2}x^2+o(x^2)$
+    
+Update On May 21th
 
 <!-- more --> 
