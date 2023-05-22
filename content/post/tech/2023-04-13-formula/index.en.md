@@ -268,6 +268,18 @@ cover:
     $1+x+\frac{1}{2}x^2+o(x^2)$
     
     $1+\alpha x+\frac{\alpha(\alpha-1)}{2}x^2+o(x^2)$
+
+- **无穷小替换**
+
+    $x-ln(1+x)\sim\frac{1}{2}x^2$
+
+    $tanx-x\sim\frac{1}{3}x^3$
+    
+    $arctanx-x\sim-\frac{1}{3}x^3$
+    
+    $tanx-sinx\sim\frac{1}{2}x^3$
+    
+    $arctanx-arcsinx\sim-\frac{1}{2}x^3$
     
 Update On May 21th
 
