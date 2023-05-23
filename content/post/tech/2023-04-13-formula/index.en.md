@@ -281,6 +281,6 @@ cover:
     
     $arctanx-arcsinx\sim-\frac{1}{2}x^3$
     
-Update On May 21th
+Update On May 22th
 
 <!-- more --> 
