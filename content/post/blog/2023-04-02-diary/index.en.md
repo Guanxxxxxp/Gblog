@@ -280,4 +280,10 @@ Let's go!
 
 {{< bilibili BV1bh4y1J7qM >}}
 
+### 0525
+
+今天听一首狼（蓝）雨
+
+{{< bilibili BV13A411X7XQ >}}
+
 <!-- more --> 
