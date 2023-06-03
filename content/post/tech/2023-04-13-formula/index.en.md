@@ -165,7 +165,7 @@ cover:
     
     $\int{\sqrt{a^2-x^2}}dx$
     
-    $\int{arctan{\sqrt{e^{2x}-1}}}dx$
+    $\int{\frac{1}{\sqrt{e^{2x}-1}}}dx$
 
     $\int{\frac{1}{xlnxln(lnx)}}dx$
 
@@ -225,7 +225,7 @@ cover:
     
     $\frac{x}2\sqrt{a^2-x^2}+\frac{a^2}2arcsin\frac{x}a+C$
     
-    $\frac{1}{\sqrt{e^{2x}-1}}+C$
+    $arctan{\sqrt{e^{2x}-1}}+C$
 
     $ln(ln(lnx))+C$
 
@@ -281,6 +281,6 @@ cover:
     
     $arctanx-arcsinx\sim-\frac{1}{2}x^3$
     
-Update On May 22th
+Update On June 3rd
 
 <!-- more --> 
