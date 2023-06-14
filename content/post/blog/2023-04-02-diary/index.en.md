@@ -357,4 +357,8 @@ In the long run, we are all dead. - John Maynard Keynes.
 话到底我了解好清楚  
 不肯趁风转
 
+### 0614
+
+回宿舍了，去图书馆学习，加油
+
 <!-- more --> 
