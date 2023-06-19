@@ -361,4 +361,8 @@ In the long run, we are all dead. - John Maynard Keynes.
 
 回宿舍了，去图书馆学习，加油
 
+### 0619
+
+考完试了，昨天到家，今天晚上抓死仨蚊子
+
 <!-- more --> 
