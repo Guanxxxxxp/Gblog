@@ -373,4 +373,8 @@ In the long run, we are all dead. - John Maynard Keynes.
 
 好久没来，状态渐渐好起来了
 
+### 0719
+
+大体数一下，一天看了220+B站视频。。。
+
 <!-- more --> 
