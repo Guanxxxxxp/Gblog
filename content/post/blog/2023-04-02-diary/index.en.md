@@ -377,4 +377,8 @@ In the long run, we are all dead. - John Maynard Keynes.
 
 大体数一下，一天看了220+B站视频。。。
 
+### 0825
+
+不复存在的10年代
+
 <!-- more --> 
