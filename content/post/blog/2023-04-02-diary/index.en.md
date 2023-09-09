@@ -401,4 +401,7 @@ In the long run, we are all dead. - John Maynard Keynes.
 
 不需要了解太多，好好关心自己附近的生活
 
+### 0909
+
+第二次翻了微博评论，记录一下（不知道是第几次了，反正不是第一次，看微博只看官方，不看评论）
 <!-- more --> 
